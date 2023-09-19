@@ -31,6 +31,38 @@
         "text": "Using kapuk randu material",
         "price": "$58.39",
         "id": 4
+      },
+      {
+        "image": "/imgs/bookshelf.svg",
+        "subtitle": "Furniture",
+        "title": "Wooden Bookshelf",
+        "text": "Combination of wood and wool",
+        "price": "$62.23",
+        "id": 5
+      },
+      {
+        "image": "/imgs/chair.svg",
+        "subtitle": "Chair",
+        "title": "White Aesthetic Chair",
+        "text": "Combination of wood and wool",
+        "price": "$63.47",
+        "id": 6
+      },
+      {
+        "image": "/imgs/lamp.svg",
+        "subtitle": "Lamp",
+        "title": "Bardono Smart Lamp",
+        "text": "Easy to use with bluetooth connection",
+        "price": "$62.23",
+        "id": 7
+      },
+      {
+        "image": "/imgs/sofa.svg",
+        "subtitle": "Sofa",
+        "title": "Sofa Empuk Banget",
+        "text": "Using kapuk randu material",
+        "price": "$58.39",
+        "id": 8
       }
     ]
 }
